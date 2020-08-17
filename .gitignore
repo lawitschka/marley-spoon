@@ -28,4 +28,5 @@
 .byebug_history
 
 # Ignore master key for decrypting credentials and more.
-/config/master.key
+# I'm leaving the master key for easier testing but this should definitely be ignored!
+# /config/master.key
